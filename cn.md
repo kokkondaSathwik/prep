@@ -57,7 +57,7 @@ mail = sub domain
 google = second - level domain
 com =top level domain
 
-Root DNS servers
+### Root DNS servers
 
 .io   student.io
 
@@ -71,6 +71,19 @@ Other popular:
 
 .uk,.us(for country specific)
 
-How Root DNS Servers works?
+### How Root DNS Servers works?
 
-google.com
+When we want google.com
+
+- first we will search in the local computer if not found
+- search in the isp 
+- if not found search in the Root DNS Server
+- if not found search in the Top level DNS server
+- once we get the IP address we will connect to the google server
+
+### Transport Layer
+
+- Network layer helps in transporting the data 
+- Transport layer lies inside the devices to receive the data which is transfered by the network layer
+  
+
