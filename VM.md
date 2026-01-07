@@ -15,3 +15,24 @@
 - In AWS VM is called as Ec2 instance.
 
 ![Real working of creating vm and aws giving vm to the user](image-1.png)
+
+### How to create virtual machines on AWS
+
+![process of creating ec2 instance on aws](image-2.png)
+- Manual process
+- First user have to login to the aws console
+- create the ec2 instance
+- In return it will return the ip address and key credentials to us
+
+![Automation of creating ec2 instances using aws ec2 api](image-3.png)
+- Automation process
+- Devops engineers at amazon created an api for each ec2 instance
+- if the requests are valid,authenticated and authorized properly we can get the ip address
+- we can access those api by writing scripts
+- those scripts can be written using
+    - AWS CLI
+    - AWS API (BOTO3- PYTHON MODULE)
+    - AWS CFT
+    - AWS CDK(cloud deployment kit)
+    - terraform
+
