@@ -17,5 +17,30 @@
 
 - Whole process is time consuming and manual process then the devops evolved.
 
+### Role of Devops Engineer
+
+- There are customers who will give the requirements to the company
+- **Business Analysts** used to interact with the clients and gather the requiremnts
+- **Product Manager** collect the requirements from the BA and prioritizes them
+- **Product owner** divides those priorites into epics/features
+- **Software Architect** makes the HLD and LLD for the following epics.
+- **Developers** gets the Designs and try to interact with the **Devops** and **DBA** to set up the infra required for the project
+- All the Devops,Developers,**Testers**,DBA works together by participate in the scrum calls.
+- Finally **SRE** checks the functionality of the features and monitors them.
+
+### JIRA and Agile Methodology
+
+- JIRA is a project Management Tool where all scrum team (dev,qe,dbs,devops) can work together.
+- JIRA is used to track the progress of the project and we can also observe the team productivity.
+- In JIRA we setup from the Organization and for the project.
+- Scrum is the methodology in Agile, where teams work in sprints.
+- sprint is typically 2 or 4 weeks of work.
+- At the end of sprint they conduct sprint retrospection meeting to discuss how much work is left.
+- After sprint planning, if anyone additional requirement came then it goes into backlogs.
+- Work in Jira is represented as issues such as Epics, Stories, Tasks, and Bugs.
+- Backlog Sprint Planning Sprint Start Sprint Completion Sprint Review Sprint Retrospective is the correct order.
+
+
+
 
 
