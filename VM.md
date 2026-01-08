@@ -36,3 +36,19 @@
     - AWS CDK(cloud deployment kit)
     - terraform
 
+## Creating an EC2 instance in AWS
+- create an account with AWS
+- Go to services
+- select EC2
+- Go to the instances
+- Launch instance
+- Provide the name of the instance
+- Select the server(ubuntu)
+- Choose the free Tier Instance type
+- then create the new key pair
+- provide the key pair name
+- choose the key pair type as RSA
+- create key value pair
+- then finally launch instance
+- after few minutes our ec2 instance will be up and running
+
