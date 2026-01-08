@@ -52,3 +52,19 @@
 - then finally launch instance
 - after few minutes our ec2 instance will be up and running
 
+## Connecting EC2 instance with mobaxterm 
+
+- after launching the ec2 instance
+- copy the ip address
+- download the mobaxterm and open it
+- go to the sessions
+- select ssh
+- provide Remote host as ip address
+- specify the username as ubuntu
+- click on the advanced ssh settings
+- use private key as our .pem file
+- click ok
+- Now mobaxterm authenticated with the EC2 instance
+
+
+
