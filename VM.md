@@ -66,5 +66,22 @@
 - click ok
 - Now mobaxterm authenticated with the EC2 instance
 
+## How to connect EC2 from Terminal
+
+# How to cinnect the EC2 instance :
+1) Using AWS UI
+2) Using AWS Terminal
+
+- To connect with terminal we should require terminal in laptop called mobaXterm
+- serval shell commands need to be entered to access the ec2 instance and to create files(use the resources inside the ec2)
+- when we want to reduce the bill we will stop the instance
+- when we no longer needed the instance we will terminate the instance
+
+- mobaXterm is just like windows cmdline
+- we need to install aws cli to access aws account and commands writing in the aws cli wil reflect on our aws account
+
+
+
+
 
 
