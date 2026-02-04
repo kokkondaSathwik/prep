@@ -42,6 +42,8 @@
 
 - ls -ltr gives the entire information about the directory with time stamps who created it, how many files and folders it contains
 
+- man is used as manual for any command
+
 - touch is used to create the file but we cant write something inside the file
 
 - but by using vi we can create and also write something inside the file
@@ -81,4 +83,14 @@
 
 - We can use the wsl or mobaxterm for terminal
 - We can use the shell as bash (for administration purpose)
+
+## Shell Scripting is nothing bu the process of automation of tasks in our linux machine
+
+## How to write Shell Scripting?
+
+- #!/ is called as Shebang
+![executables](image-5.png)
+
+
+
 
