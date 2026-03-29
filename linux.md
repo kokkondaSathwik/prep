@@ -91,6 +91,12 @@
 - #!/ is called as Shebang
 ![executables](image-5.png)
 
+![chmod it is used to change the permissions of the file](image-6.png)
+
+![Use of Linux in devops](image-7.png)
+
+
+
 
 
 
