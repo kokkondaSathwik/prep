@@ -95,6 +95,33 @@
 
 ![Use of Linux in devops](image-7.png)
 
+- | is called the pipe command
+
+- sends the output of the first command to the input of the second command
+
+- Best practices before writing the shell scripting
+- set -x #is used for debug mode
+- set -e #is used to spot the error
+- set -o pipefail 
+
+- ps -ef is used to extract all the processes running
+
+- grep is used to exract the particular process
+
+- awk it is powerful command which can helps to retrieve the exact part of the line
+
+- curl logfile | grep ERROR (it doesnot download the log file)
+
+- wget logfile | grep ERROR (it download the logfile)
+
+- sudo su - (it gives the root user access)
+
+- find is the command used to find the location of the file
+
+
+
+
+
 
 
 
